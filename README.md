@@ -4,26 +4,17 @@
 
 </div>
 
-主要写 Rust，也写 C / Zig / Python / MoonBit；平时折腾 Linux、终端和 TUI。
-
-一些项目：
-
-- [wireforge](https://github.com/lenitain/wireforge) —— `.wrfm` 3D 线框模型的 TUI 查看器
-- [wrfm.nvim](https://github.com/lenitain/wrfm.nvim) —— 在 Neovim 里用盲文字符渲染 `.wrfm`
-- [fsmon](https://github.com/lenitain/fsmon) —— 基于 fanotify 的文件变更监控，带进程归因
-- [video-note-cli](https://github.com/lenitain/video-note-cli) —— 把 B 站视频转成 Markdown 图文笔记
-
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenitain&theme=gruvbox" width="700" alt="Profile Details" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenitain&theme=gruvbox" width="345" alt="Stats" /><img src="spacer.gif" width="10" height="1" alt="" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lenitain&theme=gruvbox" width="345" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenitain&theme=gruvbox" width="345" alt="Stats" /><img src="spacer.gif" width="10" height="1" alt="" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenitain&theme=gruvbox" width="345" alt="Languages" />
 
 </div>
 
-## 🔗 找到我
+## 🔗 Find Me
 
 <div align="center">
 
