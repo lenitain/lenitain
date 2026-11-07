@@ -27,9 +27,9 @@
 
 <div align="center">
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-lenitain-7FBBB3?style=flat-square&labelColor=2D353B&logo=codeberg&logoColor=2D353B)](https://codeberg.org/lenitain)
-[![bilibili](https://img.shields.io/badge/bilibili-lenitain-83C092?style=flat-square&labelColor=2D353B&logo=bilibili&logoColor=2D353B)](https://space.bilibili.com/214267104)
-[![X](https://img.shields.io/badge/X-sudobang-2D353B?style=flat-square&labelColor=2D353B&logo=x&logoColor=D3C6AA)](https://x.com/sudobang)
-[![Email](https://img.shields.io/badge/Email-xt.zhu%40qq.com-A7C080?style=flat-square&labelColor=2D353B&logo=minutemailer&logoColor=2D353B)](mailto:xt.zhu@qq.com)
+[![Codeberg](https://img.shields.io/badge/Codeberg-lenitain-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/lenitain)
+[![bilibili](https://img.shields.io/badge/bilibili-lenitain-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/214267104)
+[![X](https://img.shields.io/badge/X-sudobang-black?style=flat-square&logo=x&logoColor=white)](https://x.com/sudobang)
+[![Email](https://img.shields.io/badge/Email-xt.zhu%40qq.com-6E7681?style=flat-square&logo=minutemailer&logoColor=white)](mailto:xt.zhu@qq.com)
 
 </div>
